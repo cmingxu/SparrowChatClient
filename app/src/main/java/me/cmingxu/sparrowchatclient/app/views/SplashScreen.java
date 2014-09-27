@@ -1,4 +1,4 @@
-package me.cmingxu.sparrowchatclient.app;
+package me.cmingxu.sparrowchatclient.app.views;
 
 import java.util.Locale;
 
@@ -17,6 +17,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import me.cmingxu.sparrowchatclient.app.R;
 
 
 public class SplashScreen extends ActionBarActivity implements ActionBar.TabListener {
