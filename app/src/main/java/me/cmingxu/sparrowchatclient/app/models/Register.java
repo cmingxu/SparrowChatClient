@@ -5,3 +5,4 @@ package me.cmingxu.sparrowchatclient.app.models;
  */
 public class Register {
 }
+
